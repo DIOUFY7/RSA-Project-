@@ -197,9 +197,7 @@ int main()
 // fonctions mais aussi niveau des résultats. Dans le poly, ils utilisent une base de 27 ce
 // qui nous permet d'avoir seulement les lettres alors j'ai pensé une base de 37 qui permet
 // d'avoir les lettres et les chiffres.
-// N'ayant jamais fais de programmation en c ni en c++,
-// c'est  pour cela que j'ai choisi l'UE. Et j'ai vraiment appris beaucoup avec ce projet,
-// qui me passionne d'ailleurs c'était pour cela  que je l'ai choisi et je n'ai pas regretté.
+// 
 //----------------------------------------------------------------------------------------
 //
 // NOM: DIOUF       Prénom: Mamadou             Groupe: A3
